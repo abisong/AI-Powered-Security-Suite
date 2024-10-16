@@ -1,4 +1,3 @@
-# AI-Powered-Security-Suite
 
 # AI-Powered Security Suite
 
